@@ -1,1 +1,16 @@
-{"name":"vesper-fall-of-the-spire","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1"},"dependencies":{"three":"^0.186.1","vite":"^8.3.1"}}
+{
+  "name": "vesper-fall-of-the-spire",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test campaign.test.js input.test.js systems.test.js"
+  },
+  "dependencies": {
+    "three": "^0.186.1",
+    "vite": "^8.3.1"
+  }
+}
