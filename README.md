@@ -1,4 +1,4 @@
-# NEON TITAN — LAST ORBIT
+# Vesper: Fall of the Spire
 
 A cinematic, procedural Three.js mecha campaign. An in-place expansion of Vesper: the original mech, arena, render pipeline, combat controls, and pooled effects remain the foundation.
 
